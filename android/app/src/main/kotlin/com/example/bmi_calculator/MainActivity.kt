@@ -1,4 +1,4 @@
-package com.bimalsubedi.bmiscalculator
+package com.bimalsubedi.bmicalculator
 
 import io.flutter.embedding.android.FlutterActivity
 
